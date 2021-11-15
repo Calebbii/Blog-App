@@ -139,6 +139,6 @@ def delete_comment(comment_id):
         abort(403)
     db.session.delete(comment)
     db.session.commit()
-    flash('comment succesfully deleted')
+    flash('Comment deleted')
     return redirect (url_for('main.theblog'))
     
