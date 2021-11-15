@@ -1,5 +1,5 @@
 # project Name
-BLOG APP
+BLOG APP 
 
 ## Author
 Caleb bii.
