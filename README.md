@@ -14,7 +14,7 @@ This is an app where users get to post and view blogs from fellow bloggers with 
 ### Prerequisites
 * python3.9
 * virtual environment
-* pip
+* pip 
 ### Clone the Repo 
 * git clone https:https://github.com/Calebbii/News-API.git
 * Initialize git and add the remote repository
