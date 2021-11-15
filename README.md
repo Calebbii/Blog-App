@@ -25,7 +25,7 @@ This is an app where users get to post and view blogs from fellow bloggers with 
 * source virtual/bin/activate
 * Install dependancies
 * Install dependancies that will create an environment for the app to run pip install -r requirements.txt
-
+ 
 ### Run the app
 python3.9 manage.py runserver
 Open localhost:5000
